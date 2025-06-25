@@ -35,14 +35,9 @@ You can refresh the images or search for specific dog breeds like "golden retrie
 - ✅ Shows 5 dog images
 - ✅ Refresh button to load new images
 - ✅ Search input to filter by breed
-- ✅ Handles special breeds like "golden retriever" properly
+- ✅ Handles special breeds like "beagle" properly
 
 ---
-
-## 📸 Screenshot
-
-![Dog Viewer Screenshot](https://dog.ceo/img/dog-api-logo.svg)  
-*(Replace with a real screenshot if you want)*
 
 ---
 
